@@ -1,0 +1,20 @@
+{
+  "name": "c3",
+  "version": "1.0.0",
+  "description": "Trabalho C3 Howard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node .",
+    "dev": "nodemon ."
+  },
+  "keywords": [],
+  "author": "Gabriel",
+  "license": "ISC",
+  "dependencies": {
+    "danfojs-node": "^0.3.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
